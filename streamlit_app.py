@@ -1,4 +1,4 @@
-import streamlit as st
-import snowflake.connector as sc
+import streamlit
+import snowflake.connector
 
-st.title("My Parents' New Healthy Dinner")
+streamlit.title("My Parents' New Healthy Dinner")
